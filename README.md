@@ -14,6 +14,9 @@ password: sidekiq123
 
 Para acessar a caixa de email local http://localhost:3000/letter_opener
 
+Para acessar o front http://localhost:8080
+  - rotas: `/posts`
+
 Para subir o container
 ```
 docker-compose up
