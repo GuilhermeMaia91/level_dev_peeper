@@ -1,6 +1,6 @@
 # Curso Leveldev (Locaweb)
 
-Projetinho implementado durante o curso do level dev ministrado pelo mestre Valeriano.
+Projetinho implementado durante o curso do **Level Dev** ministrado pelo mestre **Valeriano** (Meu muito obrigado por todo conhecimento 👏🧠).
 
 Esse projeto possui um backend e frontend monolito
 - Backend em Ruby on Rails
@@ -27,4 +27,4 @@ Para rodar o sidekiq
 docker-compose run web bundle exec sidekiq
 ```
 
-Agradecimentos a **Vindi** por ter me proporcionado essa experiência de particiar desse projeto incrivel da **Locaweb**
+Agradecimentos a **Vindi** por ter me proporcionado essa experiência de particiar desse projeto incrivel da **Locaweb** 💙
