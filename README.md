@@ -12,6 +12,8 @@ user: sidekiq
 password: sidekiq123
 ```
 
+Para acessar a caixa de email local http://localhost:3000/letter_opener
+
 Para subir o container
 ```
 docker-compose up
